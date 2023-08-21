@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Affan Surya Wardana</h1>
+## 💫 About Me:
 🌱 I’m currently learning : Machine Learning
 
 
