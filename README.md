@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Affan Surya Wardana</h1>
-<p align="center">Student · Full-stack web developer · Indonesia</p>
+<p align="center">Full-stack web developer · Indonesia</p>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=affansurya&label=Profile%20views&color=0e75b6&style=flat" alt="affansurya" />
