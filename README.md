@@ -9,7 +9,7 @@
 ## About
 
 - Building web apps with React, Next.js, and Laravel
-- Currently learning React Native, Go (Golang), and advanced Next.js patterns
+- Currently learning Go (Golang), and advanced Next.js patterns
 - Interested in product-focused development and clean UI
 
 ## Connect
