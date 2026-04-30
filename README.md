@@ -16,6 +16,7 @@
 
 - LinkedIn: https://linkedin.com/in/affansw
 - Instagram: https://instagram.com/affan_z0
+- Web Portofolio: https://affan-surya.vercel.app/
 ## Tech Stack
 
 **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
