@@ -12,8 +12,6 @@
 
 - 💬 Ask me about **why simple architecture is usually the right answer**
 
-- 📫 How to reach me **affansuryawardana@gmail.com**
-
 - ⚡ Fun fact **If it works efficiently, don't overcomplicate it**
 
 - 👨‍💻 All of my projects are available at **[https://affan-surya.vercel.app/](https://affan-surya.vercel.app/)**
